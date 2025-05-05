@@ -30,8 +30,8 @@ meuprojeto/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
-cd seu-repo/meuprojeto
+git clone https://github.com/seu-usuario/meuprojeto-java.git
+cd meuprojeto-java
 ```
 
 2. Compile os arquivos:
