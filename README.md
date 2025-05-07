@@ -28,7 +28,7 @@
 ```
 meuprojeto/
 ├── Pessoa.java             # Classe que representa uma pessoa
-└── CadastroPessoas.java    # Classe principal com menu no terminal
+└── Cadastro.java           # Classe principal com menu no terminal
 ```
 
 ## 🔹Como Executar
@@ -79,13 +79,15 @@ Nome: Ana, Idade: 25
 - Interface gráfica com Swing ou JavaFX
 - Conexão com banco de dados
 
-## 👩‍💻 Autora
-
-**Sinthian Marques**  
-Desenvolvedora back-end em formação | São Paulo - SP  
-📧 sinthianmarquesjp@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sinthianmarques)
+---
 
 ## 📜 Licença
 
-Este projeto está sob a licença MIT. Sinta-se à vontade para estudar, modificar e compartilhar!
+Distribuído sob a Licença MIT.  
+Consulte `LICENSE.md` para mais informações.
+
+---
+
+> _"Grandes projetos começam com pequenos cadastros."_  
+Por [Sinthian Marques ](https://github.com/SinthianMar) | [LinkedIn](https://www.linkedin.com/in/sinthianmarques) | sinthianmarquesjp@gmail.com
+
