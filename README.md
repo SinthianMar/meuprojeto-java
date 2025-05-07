@@ -1,9 +1,14 @@
-
 # 📋 Cadastro de Pessoas em Java
 
-Projeto simples de cadastro de pessoas feito em Java, com foco em consolidação de conceitos de orientação a objetos. Desenvolvido para praticar entrada de dados via terminal, manipulação de listas e estruturas básicas de controle.
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinthianmarques)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Project](https://img.shields.io/badge/-Project-blueviolet?style=for-the-badge)]()
 
-## 🧠 Conceitos Utilizados
+> Projeto simples de cadastro de pessoas feito em Java, com foco em consolidação de conceitos de orientação a objetos. Desenvolvido para praticar entrada de dados via terminal,  manipulação de listas e estruturas básicas de controle.
+
+---
+
+## ➟  Conceitos Utilizados
 
 - Programação Orientada a Objetos (POO)
 - Encapsulamento (`private`, getters)
@@ -12,7 +17,7 @@ Projeto simples de cadastro de pessoas feito em Java, com foco em consolidação
 - Scanner para entrada de dados
 - Estruturas de repetição (`while`) e decisão (`if`, `else`)
 
-## 🚀 Funcionalidades
+## ⚙️ Funcionalidades
 
 - Cadastrar pessoa (nome e idade)
 - Listar todas as pessoas cadastradas
@@ -26,7 +31,7 @@ meuprojeto/
 └── CadastroPessoas.java    # Classe principal com menu no terminal
 ```
 
-## ▶️ Como Executar
+## 🔹Como Executar
 
 1. Clone o repositório:
 ```bash
@@ -44,7 +49,7 @@ javac Pessoa.java CadastroPessoas.java
 java CadastroPessoas
 ```
 
-## 🖥️ Exemplo de Uso
+## 💻 Exemplo de Uso
 
 ```
 === MENU ===
@@ -66,7 +71,7 @@ Escolha uma opção: 2
 Nome: Ana, Idade: 25
 ```
 
-## 🌱 Possíveis Melhorias
+## 🔧 Possíveis Melhorias
 
 - Validação de entrada (idade negativa, nome vazio)
 - Inclusão de CPF com verificação simples
